@@ -17,6 +17,7 @@ Hardware for the SiK radio can be obtained from various manufacturers/stores in 
 * [HKPilot Telemetry Radio](../telemetry/hkpilot_sik_radio.md)
 * [Holybro Telemetry Radio](../telemetry/holybro_sik_radio.md)
 * <del>*3DR Telemetry Radio*</del> (Discontinued)
+* [ZOON - 2.4Ghz Long Range Lora Telemetry Module with Mesh](https://dronee.aero/pages/zoon)
 
 ## Setup/Configuration
 
